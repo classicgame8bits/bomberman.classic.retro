@@ -14,7 +14,7 @@
   "showNewGames": false,
   "newGames": [
     {
-      "name": "Bomber Man Classic",
+      "name": "New VER BOM",
       "imgUrl": "https://raw.githubusercontent.com/classicgame8bits/retro.game.emulator.nes/master/merge_hero_banner.png",
       "downloadUrl": "market://details?id=bomberman.classic.retro"
     }
